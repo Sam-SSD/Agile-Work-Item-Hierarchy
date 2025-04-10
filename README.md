@@ -90,4 +90,3 @@
 - Como cliente, quiero que la aplicación cargue rápido para no perder tiempo navegando.
 - Como comprador, quiero que mis datos estén protegidos para evitar que terceros accedan a mi información personal.
 - Como usuario, quiero pagar fácilmente usando PSE o recibir notificaciones por WhatsApp.
-
